@@ -21,7 +21,11 @@ This README is a compilation of all basic tasks and learnings from the ROS2 work
   * Added a Python script within the created package
   * Drew a circle using the package in VS code
 <p align="center"> <img src="./img ROS/tsim png git.png">
-    
+
+#Launching Gazebo Simulation
+  *Used ```ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py``` to launch a gazebo simulation with obstacles and a bot
+
+  
 
   
 
