@@ -57,7 +57,6 @@ finished map
  - Efficiently simulate bots using gazebo
  - Map environments using RViz
  - Automate bots in simulation using ROS2
- - 
 
   
 
