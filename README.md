@@ -22,8 +22,24 @@ This README is a compilation of all basic tasks and learnings from the ROS2 work
   * Drew a circle using the package in VS code
 <p align="center"> <img src="./img ROS/tsim png git.png">
 
-#Launching Gazebo Simulation
+#Launching Gazebo Simulation and controling the bot
   *Used ```ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py``` to launch a gazebo simulation with obstacles and a bot
+<p align="center"> <img src="./img ROS/rosobjects.png">
+  
+  *Used ```ros2 run turtlebot3_teleop teleop_keyboard``` to use the keyboard WASD to move the 
+   bot
+
+# Using the Rviz to map the Gazebo environment
+
+ * Used ```ros2 launch turtlebot3_navigation2 navigation2.launch,py use sim_time:=True```
+  to open Rviz and move the bot around using ```teleop``` to map the environment
+<p align="center"> <img src="./img ROS/git1.jpg"> 
+
+ unfinished map
+
+<p align="center"> <img src="./img ROS/git2.jpg">
+
+finished map
 
   
 
