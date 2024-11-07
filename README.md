@@ -41,6 +41,24 @@ This README is a compilation of all basic tasks and learnings from the ROS2 work
 
 finished map
 
+#Using Rviz to make the bot autonomously navigate the mapped area
+ - starting location
+<p align="center"> <img src="./img ROS/git3.jpg">
+ - placing the destination
+<p align="center"> <img src="./img ROS/gitloc.jpg">
+ - bot arrives at destination
+<p align="center"> <img src="./img ROS/git4.jpg">
+
+#Synopsis
+*At the end of the workshop participants were able to
+ - Efficiently navigate and handle file operations in the Linux terminal
+ - Efficiently manage packages in ROS2
+ - Control bots in ROS2 and VS code
+ - Efficiently simulate bots using gazebo
+ - Map environments using RViz
+ - Automate bots in simulation using ROS2
+ - 
+
   
 
   
